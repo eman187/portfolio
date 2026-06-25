@@ -6,9 +6,9 @@ import {
   Server,
 } from "lucide-react";
 
-import sigma from "./components/Screenshot 2026-06-25 125123.png";
-import cansily from "./components/Screenshot 2026-06-25 125226.png";
-import poliversia from "./components/Screenshot 2026-06-25 125301.png";
+import sigma from "./assets/sigma.png";
+import cansily from "./assets/cansily.png";
+import poliversia from "./assets/poliversia.png";
 
 export const navLinks = [
   "Home",
